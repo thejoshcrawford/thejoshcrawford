@@ -1,7 +1,7 @@
 - 👋  &nbsp; Hi, I’m @thejoshcrawford
-- 👀  &nbsp; I’m a jack of all trades and am interested in all things crypto, but searching for a specialty. 
-- 🌱  &nbsp; I’m currently learning general defi by reworking Sushiswap for the SmartBCH chain. 
-- 💞️  &nbsp; I’m looking to collaborate on defi projects. 
+- 👀  &nbsp; I'm 100% all in on crypto and web3. I'm specializing in defi. 
+- 🌱  &nbsp; I’m currently expanding my defi experience and just finished reworking Sushiswap for the SmartBCH chain. 
+- 💞️  &nbsp; I’m looking for contract work on defi projects.  
 - 📫  &nbsp; You can reach me at josh@crawford.cc
 
 <!---
